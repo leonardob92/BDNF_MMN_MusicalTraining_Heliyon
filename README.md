@@ -1,6 +1,6 @@
 BDNF_MMN_MusicalTraining_Heliyon
 
-Matlab and Python leading scripts for the paper entitled: "Brain predictive coding processes are associated to COMT gene Val158Met polymorphism" published in NeuroImage (2023). Bonetti, L., Bruzzone, S.E.P., Paunio, T., Kantojarvi, K., Kliuchko, M., Vuust, P., Palva, S., Brattico, E.
+Matlab leading script for the paper entitled: "Moderate associations between BDNF Val66Met gene polymorphism, musical expertise, and mismatch negativity" published in Heliyon (2023). Bonetti, L., Bruzzone, S.E.P., Paunio, T., Kantojarvi, K., Kliuchko, M., Vuust, P., Palva, S., Brattico, E.
 
 Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
 
